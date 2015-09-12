@@ -3,4 +3,4 @@
 
 Quickly add the currently playing track to any user created playlist in iTunes. The suggestions will filter as you type.
 
-![alt text](Screenshots/addtoplaylist.png "Add to Playlist")
+![alt text](screenshots/addtoplaylist.png "Add to Playlist")
